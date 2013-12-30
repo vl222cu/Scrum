@@ -13,7 +13,7 @@ tiden för sprinten.
 
 > För sprint 2 gäller följande punkter att ta med:
 
-* Planera in tid för research
-* Analysera uppgifterna för de olika delmålen så att de inte blir för små
-* Se över den uppskattade tiden i product backlog om alla timmar behövs eller räcker till för kommande sprint
+> * Planera in tid för research
+> * Analysera uppgifterna för de olika delmålen så att de inte blir för små
+> * Se över den uppskattade tiden i product backlog om alla timmar behövs eller räcker till för kommande sprint
 
