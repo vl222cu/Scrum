@@ -2,7 +2,8 @@ Sprintgenomgång
 ===============
 
 > Arbetet har gått bra enligt planering. Målen är uppfyllda och de listade funktionerna är genomförda enligt kraven.
-> Följande tasks lades till för att kunna uppnå kraven:
+> Följande tasks för ID 6 och ID 7 lades till för buggfix i samband med de nya kraven och för ID 8 för att kunna uppnå
+> kravet:
 
 > * Lägga till loaderikon för ID 6
 > * Ordnar så att loaderikonen endast visas på senaste öppnade fönster för ID 7
